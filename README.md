@@ -1,4 +1,5 @@
 # ScreenSpot-Pro Performance Dev
+
 This repository collects the performance of different models on the ScreenSpot-Pro GUI grounding benchmark.
 
 ## Model Performance
